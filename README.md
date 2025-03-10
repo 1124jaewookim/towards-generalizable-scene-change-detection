@@ -1,7 +1,5 @@
 # Towards Generalizable Scene Change Detection
 
-**CVPR 2025**
-
 This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection".
 
 <p align="center">
@@ -9,4 +7,5 @@ This repository represents the official implementation of the paper titled "Towa
   ·  
   <a href=""><strong>Uehwan Kim</strong></a>
   <br>
+  CVPR 2025
 </p>
