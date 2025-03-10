@@ -7,7 +7,7 @@ This repository represents the official implementation of the paper titled "Towa
   ·  
   <a href=""><strong>Uehwan Kim</strong></a>
   <br>
-  CVPR 2025
+  <strong>CVPR 2025</strong>
 </p>
 
 ![teaser](image/title_img-1.png)
