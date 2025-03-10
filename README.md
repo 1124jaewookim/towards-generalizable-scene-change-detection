@@ -10,4 +10,4 @@ This repository represents the official implementation of the paper titled "Towa
   CVPR 2025
 </p>
 
-![image](https://drive.google.com/file/d/1vPO3URMgtcg6zj_UZOdvJYlkuG-fVoqv/view?usp=sharing)
+![teaser](image/title_img-1.png)
