@@ -19,5 +19,6 @@ This repository represents the official implementation of the paper titled "Towa
   <br>Comparative results of the current state-of-the-art model and our GeSCF on various unseen images.
 </div>
 
+## :bulb: Problem Formulation
 
 ### To be Updated:)
