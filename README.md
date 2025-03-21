@@ -16,7 +16,6 @@ This repository represents the official implementation of the paper titled "Towa
   <strong>CVPR 2025</strong>
 </p>
 
-	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-generalizable-scene-change-detection/scene-change-detection-on-changevpr)](https://paperswithcode.com/sota/scene-change-detection-on-changevpr?p=towards-generalizable-scene-change-detection)
 
 <div align='center'>
@@ -40,3 +39,5 @@ Please follow this <a href="https://kensakurada.github.io/pcd_dataset.html"><str
 Please follow this <a href="https://github.com/SAMMiCA/ChangeSim"><strong>page</strong></a> to download the ChangeSim dataset.
 
 To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTYO0D5p1jEc5NlYbKR9xWkd8NSXzLCCCLR3OTlQ2LPCZk2Q/viewform?usp=sharing"><strong>here</strong></a> to download it. 
+
+## 🛠 Requirements 
