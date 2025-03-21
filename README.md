@@ -4,6 +4,7 @@ This repository represents the official implementation of the paper titled "Towa
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2409.06214)
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Website](https://img.shields.io/badge/Website-CVPR_2025-blue)](https://cvpr.thecvf.com/virtual/2025/poster/34711)
 
 <p align="center">
   <a href=""><strong>Jaewoo Kim</strong></a>
