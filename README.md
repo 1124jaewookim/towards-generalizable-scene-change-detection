@@ -44,7 +44,8 @@ To be updated.
 ## 🎨 Demo
 To be updated.
 
-
+## 🏃‍♂️ Testing on your image pairs
+To be updated.
 
 ## 📃 Citation
 If you find the work useful for your research, please cite:
