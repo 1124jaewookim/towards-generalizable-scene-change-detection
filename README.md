@@ -50,6 +50,6 @@ If you find the work useful for your research, please cite:
   title={Towards Generalizable Scene Change Detection},
   author={Jaewoo Kim and Uehwan Kim},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2025},
+  year={2025}
 }
 
