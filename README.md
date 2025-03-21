@@ -26,7 +26,7 @@ Our findings, as shown in the figure above, indicate that their reported effecti
 ## 🗂 Datasets
 For a comprehensive evaluation of SCD performance, we consider three standard SCD datasets with different characteristics and our proposed ChangeVPR dataset. 
 
-To download the VL-CMU-CD, go <a href="https://huggingface.co/datasets/Flourish/VL-CMU-CD/blob/main/VL-CMU-CD-binary255.zip"><strong>here</strong></a> to download it.
+Please follow this <a href="https://huggingface.co/datasets/Flourish/VL-CMU-CD/blob/main/VL-CMU-CD-binary255.zip"><strong>page</strong></a> to download VL-CMU-CD dataset.
 
 Please follow this <a href="https://kensakurada.github.io/pcd_dataset.html"><strong>page</strong></a> to download TSUNAMI dataset.
 
