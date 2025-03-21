@@ -3,10 +3,6 @@
 This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection".
 
 <div align="center">
-  <a href="https://cvpr.thecvf.com/virtual/2025/poster/34711">
-    <img alt="Website" src="image/CVPR-logo.svg">
-  </a>
-  <br><br>
   <a href="https://arxiv.org/abs/2409.06214">
     <img alt="Paper" src="https://img.shields.io/badge/arXiv-PDF-b31b1b">
   </a>
