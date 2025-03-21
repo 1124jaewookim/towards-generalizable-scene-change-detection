@@ -10,7 +10,7 @@ This repository represents the official implementation of the paper titled "Towa
 <p align="center">
   <a href=""><strong>Jaewoo Kim</strong></a>
   ·  
-  <a href=""><strong>Uehwan Kim</strong></a>
+  <a href="https://uehwan.github.io/people/Ue-Hwan-Kim/"><strong>Uehwan Kim</strong></a>
   <br>
   <strong>CVPR 2025</strong>
 </p>
