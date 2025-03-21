@@ -28,8 +28,8 @@ For a comprehensive evaluation of SCD performance, we consider three standard SC
 
 To download the VL-CMU-CD, go <a href="https://huggingface.co/datasets/Flourish/VL-CMU-CD/blob/main/VL-CMU-CD-binary255.zip"><strong>here</strong></a> to download it.
 
-To download the TSUNAMI, go <a href="https://kensakurada.github.io/pcd_dataset.html"><strong>here</strong></a> to download it.
+Please follow this <a href="https://kensakurada.github.io/pcd_dataset.html"><strong>page</strong></a> to download TSUNAMI dataset.
 
-To download the ChangeSim, go <a href="https://github.com/SAMMiCA/ChangeSim"><strong>here</strong></a> to download it.
+Please follow this <a href="https://github.com/SAMMiCA/ChangeSim"><strong>page</strong></a> to download ChangeSim dataset.
 
 To download our ChangeVPR dataset, go <a href=""><strong>here</strong></a> to download it. 
