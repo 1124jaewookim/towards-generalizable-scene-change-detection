@@ -39,7 +39,7 @@ Please follow this <a href="https://github.com/SAMMiCA/ChangeSim"><strong>page</
 To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTYO0D5p1jEc5NlYbKR9xWkd8NSXzLCCCLR3OTlQ2LPCZk2Q/viewform?usp=sharing"><strong>here</strong></a> to download it. 
 
 ## 🛠 Requirements 
-
+To be updated.
 
 ## 📃 Citation
 If you find the work useful for your research, please cite:
