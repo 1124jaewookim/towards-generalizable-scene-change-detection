@@ -20,5 +20,4 @@ This repository represents the official implementation of the paper titled "Towa
 </div>
 
 ## :bulb: Problem Formulation
-We formulate the research problem by casting a fundamental question: "Can contemporary SCD models detect arbitrary real-world changes beyond the scope of research data?”
-
+We formulate the research problem by casting a fundamental question: *"Can contemporary SCD models detect arbitrary real-world changes beyond the scope of research data?"*
