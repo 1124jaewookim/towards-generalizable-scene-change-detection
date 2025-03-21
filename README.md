@@ -24,4 +24,7 @@ We formulate the research problem by casting a fundamental question: **"Can cont
 Our findings, as shown in the figure above, indicate that their reported effectiveness does not hold in real-world applications. Specifically, we observe that they (1) produce inconsistent change masks when the input order is reversed, and (2) exhibit significant performance drops when deployed to unseen domains with different visual features. In this work, we address these two pivotal SCD problems by proposing a novel framework and a novel benchmark to foster SCD research in generalizability.
 
 ## 🗂 Datasets
-For a comprehensive evaluation of SCD performance, we consider three standard SCD datasets with different characteristics and our proposed ChangeVPR dataset.
+For a comprehensive evaluation of SCD performance, we consider three standard SCD datasets with different characteristics and our proposed ChangeVPR dataset. Below we provide the link to download each
+standard SCD dataset. 
+
+To download the ChangeVPR dataset, go <a href=""><strong>here</strong></a> to download it. 
