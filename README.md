@@ -1,6 +1,6 @@
 # Towards Generalizable Scene Change Detection
 
-This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection".
+This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection (CVPR 2025)".
 
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2409.06214)
 [![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
