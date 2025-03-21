@@ -2,6 +2,7 @@
 
 This repository represents the official implementation of the paper titled "Towards Generalizable Scene Change Detection".
 
+[![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2409.06214)
 
 <p align="center">
   <a href=""><strong>Jaewoo Kim</strong></a>
