@@ -41,3 +41,15 @@ Please follow this <a href="https://github.com/SAMMiCA/ChangeSim"><strong>page</
 To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTYO0D5p1jEc5NlYbKR9xWkd8NSXzLCCCLR3OTlQ2LPCZk2Q/viewform?usp=sharing"><strong>here</strong></a> to download it. 
 
 ## 🛠 Requirements 
+
+
+## 📃 Citation
+If you find the work useful for your research, please cite:
+```bibtex
+@inproceedings{Kim2024TowardsGS,
+  title={Towards Generalizable Scene Change Detection},
+  author={Jaewoo Kim and Uehwan Kim},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025},
+}
+
