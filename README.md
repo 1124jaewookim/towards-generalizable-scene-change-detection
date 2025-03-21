@@ -20,5 +20,5 @@ This repository represents the official implementation of the paper titled "Towa
 </div>
 
 ## :bulb: Problem Formulation
-We formulate the research problem by casting a fundamental question: *"Can contemporary SCD models detect arbitrary real-world changes beyond the scope of research data?"*
+We formulate the research problem by casting a fundamental question: **"Can contemporary SCD models detect arbitrary real-world changes beyond the scope of research data?"**
 As shown in the above figure, their reported effectiveness does not hold in real-world applications. Specifically, they produce inconsistent change masks when the input order is reversed and exhibit significant performance drops when deployed to unseen domains with different visual features.
