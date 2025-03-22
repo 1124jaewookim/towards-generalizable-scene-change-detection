@@ -48,9 +48,7 @@ To be updated.
 To be updated.
 
 ## 🎖 Acknowledgement
-We sincerely thank <a href="https://github.com/kensakurada/sscdnet"><strong>CSCDNet</strong></a>, <a href="https://github.com/kensakurada/sscdnet"><strong>CDResNet</strong></a>, <a href="https://github.com/Herrccc/DR-TANet"><strong>DR-TANet</strong></a> and <a href="https://github.com/DoctorKey/C-3PO/tree/main"><strong>C-3PO</strong></a> for providing a strong benchmark of the SCD baselines. 
-
-We also thank 
+We sincerely thank <a href="https://github.com/kensakurada/sscdnet"><strong>CSCDNet</strong></a>, <a href="https://github.com/kensakurada/sscdnet"><strong>CDResNet</strong></a>, <a href="https://github.com/Herrccc/DR-TANet"><strong>DR-TANet</strong></a> and <a href="https://github.com/DoctorKey/C-3PO/tree/main"><strong>C-3PO</strong></a> for providing a strong benchmark of the SCD baselines. We also thank 
 <a href="https://github.com/facebookresearch/segment-anything"><strong>Segment Anything</strong></a>
 for providing an excellent vision foundation model.
 
