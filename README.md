@@ -48,7 +48,8 @@ To be updated.
 To be updated.
 
 ## 🎖Acknowledgement
-We sincerely thank [C-3PO](https://github.com/DoctorKey/C-3PO/tree/main) for providing a thorough benchmark of the SCD baselines.
+We sincerely thank <a href="https://github.com/DoctorKey/C-3PO/tree/main"><strong>C-3PO</strong></a> for providing a thorough benchmark of the SCD baselines.
+
 
 ## 📃 Citation
 If you find the work useful for your research, please cite:
