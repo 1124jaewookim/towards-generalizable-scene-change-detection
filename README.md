@@ -45,7 +45,7 @@ To be updated.
 Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios. Below are examples showing the triplets of t0, t1, and GeSCF's corresponding predictions.
 
 <div align='center'>
-  <br><img src="image/urban-1.png" width=100%>
+  <br><img src="image/urban-2.png" width=100%>
   <br>Quantitative results of the GeSCF on ChangeVPR SF-XL (urban) split.
 </div>
 
