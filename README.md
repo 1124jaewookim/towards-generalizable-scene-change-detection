@@ -44,7 +44,7 @@ To be updated.
 ## 🎨 Demo
 Our GeSCF demonstrates robustness to various SCD landscapes:
 
-### Urban
+#### Urban
 
 <div align='center'>
   <br><img src="image/urban.png" width=100%>
