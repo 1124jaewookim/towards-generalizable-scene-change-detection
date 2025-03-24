@@ -42,7 +42,7 @@ To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms
 To be updated.
 
 ## 🎨 Demo
-Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios.
+Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios. Below are examples showing the triplets of t0, t1, and GeSCF's corresponding predictions.
 
 <div align='center'>
   <br><img src="image/urban-1.png" width=100%>
