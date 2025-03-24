@@ -27,6 +27,12 @@ Our findings, as shown in the figure above, indicate that their reported effecti
 
 In this work, we address these two pivotal SCD problems by proposing a novel framework (*GeSCF*) and a novel benchmark (*GeSCD*) to foster SCD research in generalizability. 
 
+## 🎫 GeSCF: Generalizable Scene Change Detection Framework
+To be updated.
+
+## 📟 GeSCD: Generalizable Scene Change Detection Benchmark
+To be updated.
+
 ## 🗂 Datasets
 For a comprehensive evaluation of SCD performance, we consider three standard SCD datasets with different characteristics and our proposed **ChangeVPR** dataset. 
 
