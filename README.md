@@ -42,30 +42,22 @@ To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms
 To be updated.
 
 ## 🎨 Demo
-Our GeSCF, as a zero-shot framework, demonstrates exceptional robustness across a wide range of terrain conditions---extending even to challenging remote sensing change detection scenarios.
-
-#### Urban
+Our GeSCF, as a zero-shot framework, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios.
 
 <div align='center'>
   <br><img src="image/urban.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR SF-XL split.
+  <br>Quantitative results of the GeSCF on ChangeVPR SF-XL (urban) split.
 </div>
-
-#### Suburban
 
 <div align='center'>
   <br><img src="image/suburban.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR St Lucia split.
+  <br>Quantitative results of the GeSCF on ChangeVPR St Lucia (suburban) split.
 </div>
-
-#### Rural
 
 <div align='center'>
   <br><img src="image/rural.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR Nordland split.
+  <br>Quantitative results of the GeSCF on ChangeVPR Nordland (rural) split.
 </div>
-
-#### Remote Sensing Change Detection
 
 <div align='center'>
   <br><img src="image/remote.png" width=100%>
