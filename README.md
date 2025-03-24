@@ -42,12 +42,34 @@ To download our **ChangeVPR** dataset, go <a href="https://docs.google.com/forms
 To be updated.
 
 ## 🎨 Demo
-Our GeSCF demonstrates robustness to various SCD landscapes:
+Our GeSCF demonstrates robustness to various landscapes (even remote sensing change detection):
 
 #### Urban
 
 <div align='center'>
   <br><img src="image/urban.png" width=100%>
+  <br>Quantitative results of the GeSCF on ChangeVPR SF-XL split.
+</div>
+
+#### Suburban
+
+<div align='center'>
+  <br><img src="image/suburban.png" width=100%>
+  <br>Quantitative results of the GeSCF on ChangeVPR St Lucia split.
+</div>
+
+#### Rural
+
+<div align='center'>
+  <br><img src="image/rural.png" width=100%>
+  <br>Quantitative results of the GeSCF on ChangeVPR Nordland split.
+</div>
+
+#### Remote Sensing Change Detection
+
+<div align='center'>
+  <br><img src="image/remote.png" width=100%>
+  <br>Quantitative results of the GeSCF on SECOND (test) benchmark.
 </div>
 
 
