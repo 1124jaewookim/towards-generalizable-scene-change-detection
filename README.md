@@ -45,22 +45,22 @@ To be updated.
 Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios.
 
 <div align='center'>
-  <br><img src="image/urban.png" width=100%>
+  <br><img src="image/urban-1.png" width=100%>
   <br>Quantitative results of the GeSCF on ChangeVPR SF-XL (urban) split.
 </div>
 
 <div align='center'>
-  <br><img src="image/suburban.png" width=100%>
+  <br><img src="image/suburban-1.png" width=100%>
   <br>Quantitative results of the GeSCF on ChangeVPR St Lucia (suburban) split.
 </div>
 
 <div align='center'>
-  <br><img src="image/rural.png" width=100%>
+  <br><img src="image/rural-1.png" width=100%>
   <br>Quantitative results of the GeSCF on ChangeVPR Nordland (rural) split.
 </div>
 
 <div align='center'>
-  <br><img src="image/remote.png" width=100%>
+  <br><img src="image/remote-1.png" width=100%>
   <br>Quantitative results of the GeSCF on SECOND (test) benchmark.
 </div>
 
