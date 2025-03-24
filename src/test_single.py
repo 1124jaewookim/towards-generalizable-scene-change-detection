@@ -63,17 +63,6 @@ def test_single_image(dataset, img_t0_path, img_t1_path, gt_path=None, save_img=
     
     plt.show()
     
-    #### 
-    
-    fig = plt.figure(figsize=(10,10))
-    plt.imshow(rgb_img_t0)
-    show_mask_new(final_change_mask.astype(np.float32), plt.gca())
-    plt.axis('off')
-    plt.savefig(f'./image/{dataset}.png',  bbox_inches='tight', pad_inches=0)
-    plt.show()
-    
-    
-    
     del model
     if gt_path:
         logging.info(f'Precision: {precision*100:.1f}, Recall: {recall*100:.1f}, F1: {f1score*100:.1f}')
