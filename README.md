@@ -52,22 +52,22 @@ Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robu
 
 <div align='center'>
   <br><img src="image/urban-2.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR SF-XL (urban) split.
+  <br>Qualitative results of the GeSCF on ChangeVPR SF-XL (urban) split.
 </div>
 
 <div align='center'>
   <br><img src="image/suburban-1.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR St Lucia (suburban) split.
+  <br>Qualitative results of the GeSCF on ChangeVPR St Lucia (suburban) split.
 </div>
 
 <div align='center'>
   <br><img src="image/rural-1.png" width=100%>
-  <br>Quantitative results of the GeSCF on ChangeVPR Nordland (rural) split.
+  <br>Qualitative results of the GeSCF on ChangeVPR Nordland (rural) split.
 </div>
 
 <div align='center'>
   <br><img src="image/remote-1.png" width=100%>
-  <br>Quantitative results of the GeSCF on SECOND (test) benchmark.
+  <br>Qualitative results of the GeSCF on SECOND (test) benchmark.
 </div>
 
 
