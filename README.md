@@ -129,9 +129,29 @@ CUDA_VISIBLE_DEVICES=0 python test.py \
     --stability-score-thresh 0.7
 ```
 
-📌 **Note**  
-- Make sure your dataset is structured as described in the [Dataset Structure](#-dataset-structure) section.  
-- Pretrained weights for SAM should be downloaded and placed in `./pretrained_weight/`.
+📌 **Note**
+
+| Argument                  | Description |
+|---------------------------|-------------|
+| `--test-dataset`          | Dataset name (e.g., `VL_CMU_CD`, `ChangeVPR`, `TSUNAMI`) |
+| `--dataset-path`          | Path to the dataset root directory |
+| `--output-size`           | Final resolution of the output change mask |
+| `--feature-facet`         | Which ViT token to extract (`key`, `query`, or `value`) |
+| `--feature-layer`         | ViT layer to extract features from |
+| `--embedding-layer`       | ViT layer to extract token embeddings for similarity |
+| `--sam-backbone`          | Backbone used in Segment Anything (e.g., `vit_h`, `vit_l`, `vit_b`) |
+| `--pseudo-backbone`       | Backbone used in the pseudo mask generator |
+| `--points-per-side`       | Controls the sampling density for SAM proposals |
+| `--pred-iou-thresh`       | Higher value → fewer but more confident masks |
+| `--stability-score-thresh`| Higher value → fewer but more stable masks |
+
+---
+
+⚡ **Tips for Faster Inference**
+- Use smaller backbones:  
+  Replace `vit_h` with `vit_l` or `vit_b` for `--sam-backbone` and `--pseudo-backbone`.
+- Reduce `--points-per-side` to `16` for fewer region proposals.
+- Increase `--pred-iou-thresh` and `--stability-score-thresh` to filter out weak or noisy masks.
 
 ## 🎨 Demo
 
