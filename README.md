@@ -145,14 +145,16 @@ CUDA_VISIBLE_DEVICES=0 python test.py \
 | `--pred-iou-thresh`       | Higher value → fewer but more confident masks |
 | `--stability-score-thresh`| Higher value → fewer but more stable masks |
 
----
-
 ⚡ **Tips for Faster Inference**
 - Use smaller backbones:  
   Replace `vit_h` with `vit_l` or `vit_b` for `--sam-backbone` and `--pseudo-backbone`.
 - Reduce `--points-per-side` to `16` for fewer region proposals.
 - Increase `--pred-iou-thresh` and `--stability-score-thresh` to filter out weak or noisy masks.
 
+> 🏆 However, the best performance reported in the paper was achieved using:  
+> `--sam-backbone vit_h`, `--pseudo-backbone vit_h`, `--points-per-side 32`,  
+> `--pred-iou-thresh 0.7`, and `--stability-score-thresh 0.7`.
+> 
 ## 🎨 Demo
 
 Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios. Below are examples showing the triplets of t0, t1, and GeSCF's corresponding predictions.
