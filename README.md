@@ -157,7 +157,7 @@ CUDA_VISIBLE_DEVICES=0 python test.py \
 
 ## 🖼️ Inference on Single Image Pair
 
-To run inference on a single image pair (e.g., for visualization or quick testing), use the following command:
+To run inference on a single image pair (e.g., for visualization or quick testing), use the following command [`src/test_sinlge.sh`](src/test_single.sh):
 
 > 📌 Make sure to set `--test-dataset` to `Random` when testing with a manually specified image path.
 
