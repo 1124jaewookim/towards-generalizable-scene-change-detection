@@ -154,7 +154,37 @@ CUDA_VISIBLE_DEVICES=0 python test.py \
 > 🏆 However, the best performance reported in the paper was achieved using:  
 > `--sam-backbone vit_h`, `--pseudo-backbone vit_h`, `--points-per-side 32`,  
 > `--pred-iou-thresh 0.7`, and `--stability-score-thresh 0.7`.
-> 
+
+## 🖼️ Inference on Single Image Pair
+
+To run inference on a single image pair (e.g., for visualization or quick testing), use the following command:
+
+> 📌 Make sure to set `--test-dataset` to `Random` when testing with a manually specified image path.
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python test_single.py \
+    --test-dataset Random \
+    --output-size 512 \
+    \
+    --img-t0-path F:/GeSCD/ChangeVPR/SF-XL/t0/00000001.png \
+    --img-t1-path F:/GeSCD/ChangeVPR/SF-XL/t1/00000001.png \
+    --gt-path   F:/GeSCD/ChangeVPR/SF-XL/mask/00000001.png \
+    \
+    --feature-facet key \
+    --feature-layer 17 \
+    --embedding-layer 32 \
+    \
+    --sam-backbone vit_h \
+    --pseudo-backbone vit_h \
+    \
+    --points-per-side 32 \
+    --pred-iou-thresh 0.7 \
+    --stability-score-thresh 0.7
+```
+
+> 📝 The ground-truth mask (`--gt-path`) is optional.  
+> If provided, precision/recall/F1 will be calculated and logged.
+
 ## 🎨 Demo
 
 Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robustness across a wide range of terrain conditions, extending even to challenging remote sensing change detection scenarios. Below are examples showing the triplets of t0, t1, and GeSCF's corresponding predictions.
@@ -178,10 +208,6 @@ Our GeSCF, as a SAM-based **zero-shot framework**, demonstrates exceptional robu
   <br><img src="image/remote-1.png" width=100%>
   <br>Qualitative results of the GeSCF on SECOND (test) benchmark.
 </div>
-
-## 🏃‍♂️ Testing on your image pairs
-
-To be updated.
 
 ## 🎖 Acknowledgement
 
