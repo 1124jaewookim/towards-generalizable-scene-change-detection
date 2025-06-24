@@ -87,6 +87,24 @@ your_dataset_root/
             ├── 00000001.png
             └── ...
 ```
+or
+```text
+your_dataset_root/
+└── VL_CMU_CD/
+    └── test/
+        ├── t0/               # Images at time t0
+        │   ├── 000_1_00_0.png
+        │   ├── 000_1_01_0.png
+        │   └── ...
+        ├── t1/               # Images at time t1
+        │   ├── 000_1_00_0.png
+        │   ├── 000_1_01_0.png
+        │   └── ...
+        └── gt/               # Ground-truth binary change masks
+            ├── 000_1_00_0.png
+            ├── 000_1_01_0.png
+            └── ...
+```
 
 ## 🛠 Requirements
 
