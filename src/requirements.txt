@@ -1,0 +1,10 @@
+einops==0.8.1
+matplotlib==3.8.4
+numpy==2.3.1
+opencv-python==4.11.0.86           
+pycocotools==2.0.8
+scipy==1.16.0
+scikit-image                        
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+tqdm==4.67.1
