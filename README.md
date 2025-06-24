@@ -74,15 +74,15 @@ Prepare your dataset in the following structure:
 your_dataset_root/
 └── ChangeVPR/
     └── SF-XL/
-        ├── t0/               # Images at time t0 (e.g., before change)
+        ├── t0/               # Images at time t0 
         │   ├── 00000000.png
         │   ├── 00000001.png
         │   └── ...
-        ├── t1/               # Images at time t1 (e.g., after change)
+        ├── t1/               # Images at time t1
         │   ├── 00000000.png
         │   ├── 00000001.png
         │   └── ...
-        └── mask/             # Ground-truth binary change masks (optional for evaluation)
+        └── mask/             # Ground-truth binary change masks
             ├── 00000000.png
             ├── 00000001.png
             └── ...
@@ -106,9 +106,32 @@ your_dataset_root/
             └── ...
 ```
 
-## 🛠 Requirements
+## 🚀 Inference on Dataset
 
-To be updated.
+To run inference on an entire dataset, use the following command [`src/test.sh`](src/test.sh) for convenience:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python test.py \
+    --test-dataset VL_CMU_CD \
+    --output-size 512 \
+    \
+    --dataset-path F:/GeSCD/VL_CMU_CD/test \
+    \
+    --feature-facet key \
+    --feature-layer 17 \
+    --embedding-layer 32 \
+    \
+    --sam-backbone vit_h \
+    --pseudo-backbone vit_h \
+    \
+    --points-per-side 32 \
+    --pred-iou-thresh 0.7 \
+    --stability-score-thresh 0.7
+```
+
+📌 **Note**  
+- Make sure your dataset is structured as described in the [Dataset Structure](#-dataset-structure) section.  
+- Pretrained weights for SAM should be downloaded and placed in `./pretrained_weight/`.
 
 ## 🎨 Demo
 
