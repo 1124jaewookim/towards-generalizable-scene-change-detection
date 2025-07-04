@@ -218,7 +218,7 @@ for providing an excellent vision foundation model.
 ## 🔗 Related Repositories
 
 This project shares a similar research direction with other works exploring zero-shot scene change detection. 
-Notable examples include [`segment-any-change`]([link2](https://github.com/Z-Zheng/pytorch-change-models)) and [`zero-shot-scd`](https://github.com/kyusik-cho/ZSSCD).
+Notable examples include [`segment-any-change`](https://github.com/Z-Zheng/pytorch-change-models) and [`zero-shot-scd`](https://github.com/kyusik-cho/ZSSCD).
 
 ## 📃 Citation
 
